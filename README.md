@@ -6,4 +6,4 @@
  - ⚡  please call me:931567473@qq.com
  - 💬  you can find my technical articles:https://www.zhihu.com/people/li-xiao-yao-57-52
 
-![](https://github-readme-stats.vercel.app/api?jacksea001=mayandev&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
